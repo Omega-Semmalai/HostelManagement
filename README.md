@@ -29,7 +29,7 @@
 
 1. **Download the project zip file**
 
-   👉 [Download Zip File](https://your-link-to-download)  
+   👉 [Download Zip File](https://github.com/Omega-Semmalai/HostelManagement)  
    
    After downloading, extract the contents of the zip file.
 
