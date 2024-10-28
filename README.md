@@ -22,7 +22,6 @@
    ```  
    [Express.js Documentation](https://expressjs.com/)
 
-You can include the following steps in your README file for setting up and running the **Hostel Management System** project:
 
 ---
 
