@@ -22,4 +22,57 @@
    ```  
    [Express.js Documentation](https://expressjs.com/)
 
-When you paste this into a GitHub README.md or any Markdown editor, the links will appear as clickable.
+You can include the following steps in your README file for setting up and running the **Hostel Management System** project:
+
+---
+
+### **Steps to Setup the Hostel Management System**
+
+1. **Download the project zip file**
+
+   👉 [Download Zip File](https://your-link-to-download)  
+   
+   After downloading, extract the contents of the zip file.
+
+2. **Open the project in Visual Studio Code**
+
+   👉 Navigate to the extracted folder and open the `hostelManagement` folder in **Visual Studio Code**.
+
+3. **Create the `.env` file**
+
+   👉 In the `hostelManagement` folder, create a `.env` file with the following content:
+
+   ```bash
+   NODE_ENV = development
+   PORT = 4050
+   MONGODB_URI = mongodb://localhost/hostel
+   MONGOOSE_DEBUG = true
+   JWT_SECRET = 29fe02c1-7de9-493a-b3c5-d33e56555a98
+   ```
+
+4. **Install dependencies**
+
+   👉 Run this command in your terminal to install the necessary dependencies:
+
+   ```bash
+   npm install
+   ```
+
+5. **Start the project**
+
+   👉 To start the application, use this command:
+
+   ```bash
+   npm run start
+   ```
+
+6. **Start the server**
+
+   👉 To start the server, run this command:
+
+   ```bash
+   npm run server
+   ```
+
+---
+
